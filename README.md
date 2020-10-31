@@ -1,4 +1,4 @@
-The orginal verion of ```MannWhitneyUTest``` class from Apache Commons Math has two public methods:
+The orginal version of ```MannWhitneyUTest``` class from Apache Commons Math has two public methods:
 
 * ```mannWhitneyU(double[] x, double[] y)``` which returns only U statistic of the test and the wrong one (greater instead of lesser)
 * ```mannWhitneyUTest(double[] x, double[] y)``` which returns only p-value of the test
